@@ -1,0 +1,4 @@
+#verticle-text {
+    writing-mode: vertical-rl; /* Vertical writing mode, right to left */
+    transform: rotate(180deg);
+}
